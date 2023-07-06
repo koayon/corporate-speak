@@ -1,0 +1,54 @@
+{
+  "1": {
+    "prompt": "I don't want to think about this now.",
+    "completion": "Let's circle back on this."
+  },
+  "2": {
+    "prompt": "I have nothing to say.",
+    "completion": "It is what it is."
+  },
+  "3": {
+    "prompt": "We made a mistake.",
+    "completion": "After careful consideration, we have decided to pivot."
+  },
+  "4": {
+    "prompt": "Let's stop talking about this.",
+    "completion": "Let's take this offline."
+  },
+  "5": {
+    "prompt": "I don't love this idea.",
+    "completion": "This idea won't scale."
+  },
+  "6": {
+    "prompt": "Don't leave me hanging here, guys.",
+    "completion": "Does anvone have the bandwidth for this?"
+  },
+  "7": {
+    "prompt": "Can I borrow some ideas? I have a presentation in five minutes.",
+    "completion": "Can I pick vour brain for a second?"
+  },
+  "8": {
+    "prompt": "Please do not ping me.",
+    "completion": "Feel free to ping me."
+  },
+  "9": {
+    "prompt": "Please don't make these mistakes again.",
+    "completion": "What were the key learnings here?"
+  },
+  "10": {
+    "prompt": "Let's stop talking about this for now.",
+    "completion": "Let's take this offline."
+  },
+  "11": {
+    "prompt": "I have no idea what to do",
+    "completion": "What would Google do?"
+  },
+  "12": {
+    "prompt": "I watched a TikTok about this",
+    "completion": "I read about this in Harvard Business Insider"
+  },
+  "13": {
+    "prompt": "I think I need some help",
+    "completion": "Let's whiteboard this"
+  }
+}

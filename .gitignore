@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+todos.txt
+whisper.py
+*.wav
+__pycache__
+*.mp3
