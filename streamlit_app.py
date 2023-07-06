@@ -1,3 +1,5 @@
+"Example Streamlit/GPT app."
+
 import openai
 import streamlit as st
 
@@ -11,9 +13,7 @@ with st.sidebar:
     st.write("Created by [Kola Ayonrinde](www.kolaayonrinde.com)")
 
 openai.api_key = st.secrets["OPENAI_API_KEY"]
-# base_prompt = "Can you rephrase this in corporate language: /n/n"
 base_prompt = "Can you rephrase following text in corporate language. Please be concise and diplomatic. Here's the text to be rephrased: /n/n"
-# new_base_prompt = "You are CorporateGPT, a language model trained by OpenAI to write in the style of a startup manager. Can you rephrase this in corporate language: /n/n"
 
 st.title("🧑‍💼 Corporate Speak")
 
@@ -56,6 +56,7 @@ audio_capture_button = False
 
 if submit_button or audio_capture_button:
     result = corporatify(user_input)
+
     # streamlit columns
     col1, col2 = st.columns([1, 2])
     with col1:
