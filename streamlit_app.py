@@ -6,7 +6,7 @@ st.set_page_config(page_title="Corporate Speak", page_icon="assets/favicon/Karen
 with st.sidebar:
     st.title("Corporate Speak")
     st.write(
-        "Star on [GitHub](www.github.com/koayon/corporatespeak) to support this project!"
+        "Star on [GitHub](www.github.com/koayon/corporate-speak) to support this project!"
     )
     st.write("Created by [Kola Ayonrinde](www.kolaayonrinde.com)")
 
